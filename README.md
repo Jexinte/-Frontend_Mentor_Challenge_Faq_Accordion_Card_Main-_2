@@ -13,37 +13,36 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 ### Screenshot
-
+![Final Result on Desktop] (./images/final_result_desktop.png)
+![Final Resultat on Mobile] (./images/final_result_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [My second try on this challenge from Frontend Mentor Challenges](https://jexinte.github.io/-Frontend_Mentor_Challenge_Faq_Accordion_Card_Main-_2/)
 
 ## My process
-
+In my first try the semantics wasn't good at all so I tried this time to be better so my focus what on that at the beginning then I start to fill the css file by adding custom variables then I just switch beetween css and js file to adjust elements
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Javascript
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
-
+ I learned how to use the <details> and <summary> tags on html , css and javascript with the events associated with. Using classList methods was also very useful
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [LebCit](https://lebcit.github.io/posts/automatically-close-other-details/) - This helped me for because I wasn't able to use correctly the toggle event on <details>
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Jexinte]
+- Frontend Mentor - [@Jexinte](https://www.frontendmentor.io/profile/Jexinte)
 
