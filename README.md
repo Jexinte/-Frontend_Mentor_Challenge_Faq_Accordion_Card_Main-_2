@@ -23,7 +23,7 @@ Users should be able to:
 - Live Site URL: [My second try on this challenge from Frontend Mentor Challenges](https://jexinte.github.io/-Frontend_Mentor_Challenge_Faq_Accordion_Card_Main-_2/)
 
 ## My process
-In my first try the semantics wasn't good at all so I tried this time to be better so my focus what on that at the beginning then I start to fill the css file by adding custom variables then I just switch beetween css and js file to adjust elements
+In my first try the semantics wasn't good at all so I tried this time to be better so my focus was on that at the beginning then I start to fill the css file by adding custom variables then I just switch beetween css and js file to adjust elements
 ### Built with
 
 - Semantic HTML5 markup
