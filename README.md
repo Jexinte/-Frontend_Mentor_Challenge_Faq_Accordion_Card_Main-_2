@@ -13,8 +13,8 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 ### Screenshot
-![Final Result on Desktop] (./images/final_result_desktop.png)
-![Final Resultat on Mobile] (./images/final_result_mobile.png)
+![Final Result on Desktop] (https://github.com/Jexinte/-Frontend_Mentor_Challenge_Faq_Accordion_Card_Main-_2/blob/main/images/final_result_desktop.png)
+![Final Resultat on Mobile] (https://github.com/Jexinte/-Frontend_Mentor_Challenge_Faq_Accordion_Card_Main-_2/blob/main/images/final_result_mobile.png)
 
 ### Links
 
@@ -33,7 +33,7 @@ In my first try the semantics wasn't good at all so I tried this time to be bett
 
 ### What I learned
 
- I learned how to use the <details> and <summary> tags on html , css and javascript with the events associated with. Using classList methods was also very useful
+ I learned how to use the details and summary tags on html , css and javascript with the events associated with. Using classList methods was also very useful
 
 ### Useful resources
 
