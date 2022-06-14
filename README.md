@@ -13,8 +13,10 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 ### Screenshot
-![Final Result on Desktop] (https://github.com/Jexinte/-Frontend_Mentor_Challenge_Faq_Accordion_Card_Main-_2/blob/main/images/final_result_desktop.png)
-![Final Resultat on Mobile] (https://github.com/Jexinte/-Frontend_Mentor_Challenge_Faq_Accordion_Card_Main-_2/blob/main/images/final_result_mobile.png)
+
+![Desktop Version] (https://github.com/Jexinte/-Frontend_Mentor_Challenge_Faq_Accordion_Card_Main-_2/blob/main/images/final_result_desktop.png)
+
+![Mobile Version] (https://github.com/Jexinte/-Frontend_Mentor_Challenge_Faq_Accordion_Card_Main-_2/blob/main/images/final_result_mobile.png)
 
 ### Links
 
